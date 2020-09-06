@@ -27,9 +27,9 @@ Hi, I'm Priyansh Singhal, a Full Stack Web Developer 🚀 from India, currently,
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on an **E-commerce Site**
-- 👨‍💻 All of my projects are available at **(https://github.com/priyansh18)**
-- 💬 Ask me about **Django , Python , React **
-- 📫 How to reach me: **singhalpriyansh58@gmail.com**
+- 👨‍💻 All of my projects are available at **https://github.com/priyansh18**
+- 💬 Ask me about **Django,Python,React**
+- 📫 How to reach me:📬 **singhalpriyansh58@gmail.com**
 - ⚡ Fun fact: **""Error's is what makes website better""**
 
 <br /> 
