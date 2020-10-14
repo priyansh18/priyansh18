@@ -27,10 +27,10 @@ Hi, I'm Priyansh Singhal, a Full Stack Web Developer 🚀 from India, currently,
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on an **E-commerce Site**
-- 👨‍💻 All of my projects are available at **https://github.com/priyansh18**
+- 👨‍💻 All of my projects are available at **https://www.priyanshsinghal.com/**
 - 💬 Ask me about **Django,Python,React**
 - 📫 How to reach me:📬 **singhalpriyansh58@gmail.com**
-- ⚡ Fun fact: **""Error's is what makes website better""**
+- ⚡ Fun fact: **""Errors are what makes the website better""**
 
 <br /> 
 <img align="right" alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyansh18&show_icons=true&hide_border=true" />
