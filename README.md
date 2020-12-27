@@ -46,3 +46,12 @@ Hi, I'm Priyansh Singhal, a Full Stack Web Developer 🚀 from India, currently,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<br />
+<br />
+<br />
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh18&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<img align="centre" src="https://github-profile-trophy.vercel.app/?username=priyansh18&column=7&theme=onedark" />
+
