@@ -23,6 +23,7 @@
 
 Hi, I'm Priyansh Singhal, a Full Stack Web Developer 🚀 from India, currently, I'm a student from Dr. Akhilesh Das Gupta Institute of Technology & Management persuing B.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
 
+![Priyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
 
 **Talking about Personal Stuffs:**
 
