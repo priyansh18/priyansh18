@@ -21,13 +21,13 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 
-Hi, I'm Priyansh Singhal, a Full Stack Web Developer 🚀 from India, currently, I'm a student from Dr. Akhilesh Das Gupta Institute of Technology & Management persuing B.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
+Hi, I'm Priyansh Singhal, a Full Stack Web Developer🎯 as well as  a Python Develper 🚀 from India, currently, I'm a student from Dr. Akhilesh Das Gupta Institute of Technology & Management persuing B.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
 
 ![Priyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on an **E-commerce Site**
+- 🔭 I’m currently working on an **Covid-19 Data Dashboard**
 - 👨‍💻 All of my projects are available at **https://www.priyanshsinghal.com/**
 - 💬 Ask me about **Django,Python,React**
 - 📫 How to reach me:📬 **singhalpriyansh58@gmail.com**
@@ -50,8 +50,6 @@ Hi, I'm Priyansh Singhal, a Full Stack Web Developer 🚀 from India, currently,
 <br />
 <br />
 <br />
-
-
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh18&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
