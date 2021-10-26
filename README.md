@@ -21,7 +21,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 
-Hi, I'm Priyansh Singhal, a Full Stack Web Developer🎯 as well as  a Python Develper 🚀 from India, currently, I'm a student from Dr. Akhilesh Das Gupta Institute of Technology & Management persuing B.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
+Hi, I'm Priyansh Singhal, a Full Stack Web Developer🎯 as well as  a Python Develper 🚀 from India, currently, I'm a student from Netaji Subhas University of Technology persuing M.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
 
 ![Priyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
 
