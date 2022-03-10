@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh</h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Priyansh</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 
   <a href="https://twitter.com/18_priyansh">
     <img align="left" alt="Priyansh Singhal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,7 +28,7 @@ Hi, I'm Priyansh Singhal, a Full Stack Web Developer🎯 as well as  a Python De
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on an **Covid-19 Data Dashboard**
-- 👨‍💻 All of my projects are available at **https://www.priyanshsinghal.com/**
+- 👨‍💻 All of my projects are available at **https://www.priyanshsinghal.in/**
 - 💬 Ask me about **Django,Python,React**
 - 📫 How to reach me:📬 **singhalpriyansh58@gmail.com**
 - ⚡ Fun fact: **""Errors are what makes the website better""**
