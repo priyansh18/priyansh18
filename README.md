@@ -23,6 +23,21 @@
 
 Hi, I'm Priyansh Singhal, a Full Stack Web Developer🎯 as well as  a Python Develper 🚀 from India, currently, I'm a student from Netaji Subhas University of Technology persuing M.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
+👋🏽 Hi, I am glad you reached out to my tiny digital world. I can transform ideas into web pages.
+
+🎓 Graduated with Bachelor's of Technology specialized in Computer Science Engineering(July 2021)
+
+📚 I am currently pursuing Master's of Technology specialized in Computer Science Engineering from Netaji Subhas Institute of Technology,Delhi
+
+I am highly interested in web development, most of my projects and internships are focused on the same field.
+
+I enjoy writing Technical Blogs and have been published in major publications including Javarevisted, Django frameworks.
+
+💪🏽 Expertise in Python, SQL, Django, React, HTML,CSS,Javascript e.t.c
+
+
 ![Priyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
 
 **Talking about Personal Stuffs:**
