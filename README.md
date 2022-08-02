@@ -38,6 +38,7 @@ I enjoy writing Technical Blogs and have been published in major publications in
 💪🏽 Expertise in Python, SQL, Django, React, HTML,CSS,Javascript e.t.c
 
 
+
 ![Priyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
 
 **Talking about Personal Stuffs:**
@@ -49,11 +50,16 @@ I enjoy writing Technical Blogs and have been published in major publications in
 - ⚡ Fun fact: **""Errors are what makes the website better""**
 
 <br /> 
-<img align="right" alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyansh18&show_icons=true&hide_border=true" />
 
 **Languages and Tools:**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,cpp,django,php,wordpress" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,django,php,wordpress)](https://skillicons.dev)
+<img align="right" alt="Priyansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyansh18&show_icons=true&hide_border=true" />
+
 
 <hr />
 <br />
