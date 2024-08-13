@@ -21,22 +21,15 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 
-Hi, I'm Priyansh Singhal, a Full Stack Web Developer🎯 as well as  a Python Develper 🚀 from India, currently, I'm a student from Netaji Subhas University of Technology persuing M.tech. I'm a creative problem solving enthusiast and love ❤️ building Websites , Beside's engineering , I enjoy reading Books , watching Movies & playing Cricket.
+👋 Hi, I'm Priyansh Singhal, an Associate Application Developer at Oracle. I specialize in developing and maintaining web applications using PL/SQL and a JavaScript library for creative coding. My contributions to various projects have enhanced the user experience and functionality of Oracle's products and services.
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+🎓 I hold an M.Tech in Computer Science Engineering from Netaji Subhas Institute of Technology, Delhi, and a B.Tech in Computer Science from Dr. Akhilesh Das Gupta Institute of Technology & Management. I have a strong academic background, having qualified for the GATE exam.
 
-👋🏽 Hi, I am glad you reached out to my tiny digital world. I can transform ideas into web pages.
+💻 Outside of coding, I'm passionate about writing technical blogs and sharing my knowledge with the community. I've published articles on topics like Java and Django frameworks in major publications. I'm always eager to learn new skills, technologies, and collaborate with other professionals.
 
-🎓 Graduated with Bachelor's of Technology specialized in Computer Science Engineering(July 2021)
+🎥 I also run a YouTube channel where I share insights, tutorials, and tips on various tech topics. Subscribe to stay updated with the latest in tech and development!
 
-📚 I am currently pursuing Master's of Technology specialized in Computer Science Engineering from Netaji Subhas Institute of Technology,Delhi
-
-I am highly interested in web development, most of my projects and internships are focused on the same field.
-
-I enjoy writing Technical Blogs and have been published in major publications including Javarevisted, Django frameworks.
-
-💪🏽 Expertise in Python, SQL, Django, React, HTML,CSS,Javascript e.t.c
-
+Feel free to connect with me if you share similar interests or if you want to discuss tech, coding, or collaboration opportunities. Let's learn and grow together! 🚀
 
 
 ![Priyansh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
