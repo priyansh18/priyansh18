@@ -49,8 +49,6 @@ handling **10k+ daily transactions** without breaking a sweat (okay, maybe a lit
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh18)
-
 ### 🧠 Talking about personal (developer) stuff
 
 - 🔭 Currently building **OrbiGraph** — an **AI-centric enterprise Org Chart & Back-Office platform**
