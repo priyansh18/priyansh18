@@ -28,6 +28,34 @@
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- 🔥 WEBSITER — Flagship Product Banner -->
+<div align="center">
+
+<a href="https://priyanshsinghal.com/websiter">
+  <img src="https://img.shields.io/badge/🚀_WEBSITER_—_Build_Stunning_Websites_in_Minutes-FF6F00?style=for-the-badge&logoColor=white&labelColor=FF6F00" alt="Websiter" />
+</a>
+
+<br/>
+
+<a href="https://priyanshsinghal.com/websiter">
+  <img src="https://img.shields.io/badge/⚡_AI--Powered_Website_Builder_|_No_Code_Needed_|_Launch_Today-0d1117?style=for-the-badge&logo=rocket&logoColor=58A6FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://priyanshsinghal.com/websiter">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/👉_TRY_WEBSITER_NOW_→-58A6FF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/👉_TRY_WEBSITER_NOW_→-58A6FF?style=for-the-badge&logoColor=white" alt="Try Websiter" />
+  </picture>
+</a>
+
+<sub><b>Create professional websites effortlessly with AI — from portfolio sites to landing pages, no coding required.</b></sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
@@ -89,6 +117,32 @@ const priyansh = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
+
+<!-- ⭐ WEBSITER — Pinned Project Highlight -->
+<div align="center">
+
+<a href="https://priyanshsinghal.com/websiter">
+<table>
+<tr>
+<td align="center" style="padding: 20px;">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> [Websiter — AI Website Builder](https://priyanshsinghal.com/websiter)
+
+**Build stunning, professional websites in minutes — powered by AI, no code required.**
+From portfolio sites to business landing pages, Websiter handles design, content, and deployment so you can focus on what matters.
+
+![AI](https://img.shields.io/badge/AI_Powered-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![No Code](https://img.shields.io/badge/No_Code-00C853?style=flat-square&logo=lightning&logoColor=white)
+![Fast](https://img.shields.io/badge/Launch_in_Minutes-58A6FF?style=flat-square&logo=rocket&logoColor=white)
+
+[![Try Websiter Now](https://img.shields.io/badge/🚀_Try_Websiter_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyanshsinghal.com/websiter)
+
+</td>
+</tr>
+</table>
+</a>
+
+</div>
 
 <table>
 <tr>
@@ -208,6 +262,7 @@ I also run a **YouTube channel**, sharing experiences, interview tips, and Oracl
 
 <b>If it involves System Design, Backend APIs, AI Agents, or figuring out why that query is slow — let's talk.</b>
 
+[![Websiter](https://img.shields.io/badge/🚀_Try_Websiter-FF6F00?style=for-the-badge&logo=rocket&logoColor=white)](https://priyanshsinghal.com/websiter)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshsinghal/)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyanshsinghal.com/home)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhalpriyansh58@gmail.com)
