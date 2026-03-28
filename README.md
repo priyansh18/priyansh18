@@ -19,7 +19,7 @@
 <a href="https://twitter.com/18_priyansh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://www.instagram.com/18_priyansh/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:singhalpriyansh58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.youtube.com/@priyanshsinghal"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@18_priyansh"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 
 <br /><br />
 
@@ -46,7 +46,7 @@ Previously, I survived (and thrived) as an **Associate Application Developer @ O
 
 - **M.Tech (CSE)** from **NSUT Delhi** | **B.Tech (CSE)** from **GGSIPU** | **GATE Qualified**
 - I write **tech blogs** that turn complex stuff into *"ohhh that makes sense"* moments
-- I run a **YouTube channel** — backend, frontend, system design — minus the boring slides
+- I run a **YouTube channel** — sharing experiences, interview tips, and Oracle kit unboxings
 - If it involves **System Design, Backend APIs, React, or why this query is slow** — I'm in
 
 <br />
@@ -199,14 +199,14 @@ Check out all **84+ repositories** covering full-stack apps, DSA, utilities & mo
 
 I write about **System Design, Backend Engineering, and AI** — turning complex topics into clear, digestible explanations.
 
-I also run a **YouTube channel**, covering backend architecture, frontend patterns, and system design — minus the boring slides.
+I also run a **YouTube channel**, sharing experiences, interview tips, and Oracle kit unboxings.
 
 <br />
 
 <div align="center">
 
 [![Medium](https://img.shields.io/badge/Read_my_blogs_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhalpriyansh58)
-[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@priyanshsinghal)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@18_priyansh)
 
 </div>
 
