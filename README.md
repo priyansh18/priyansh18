@@ -87,13 +87,6 @@ const priyansh = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-<!-- ⭐ WEBSITER — Pinned #1 Project -->
-<div align="center">
-<a href="https://priyanshsinghal.com/websiter">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=2&section=header" width="80%" />
-</a>
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
