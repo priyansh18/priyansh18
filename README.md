@@ -185,23 +185,9 @@ Check out all **84+ repositories** covering full-stack apps, DSA, utilities & mo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyansh18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh18&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=priyansh18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh18&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<details>
-<summary><b>&#127942; GitHub Trophies</b></summary>
-<br />
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyansh18&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</div>
-</details>
 
 
 <!-- Animated Line Divider -->
