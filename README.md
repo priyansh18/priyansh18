@@ -203,25 +203,6 @@ Check out all **84+ repositories** covering full-stack apps, DSA, utilities & mo
 </div>
 </details>
 
-<details>
-<summary><b>&#128200; Contribution Graph</b></summary>
-<br />
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh18&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-</details>
-
-<details>
-<summary><b>&#128013; Contribution Snake</b></summary>
-<br />
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh18/priyansh18/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh18/priyansh18/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/priyansh18/priyansh18/output/github-snake-dark.svg" />
-  </picture>
-</div>
-</details>
 
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -258,9 +239,6 @@ I also run a **YouTube channel**, covering backend architecture, frontend patter
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyanshsinghal.com/home)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhalpriyansh58@gmail.com)
 
-<br />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
