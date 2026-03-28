@@ -29,28 +29,34 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 🔥 WEBSITER — Flagship Product Banner -->
+<a href="https://priyanshsinghal.com/websiter">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=header&text=⚡%20WEBSITER%20—%20AI%20Website%20Builder&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Build%20Stunning%20Websites%20in%20Minutes%20•%20No%20Code%20Required&descSize=14&descAlignY=72&descAlign=50" width="100%" />
+</a>
+
 <div align="center">
 
 <a href="https://priyanshsinghal.com/websiter">
-  <img src="https://img.shields.io/badge/🚀_WEBSITER_—_Build_Stunning_Websites_in_Minutes-FF6F00?style=for-the-badge&logoColor=white&labelColor=FF6F00" alt="Websiter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=FF6F00&center=true&vCenter=true&random=false&width=600&lines=Describe+your+dream+website+%E2%86%92+AI+builds+it+instantly;Portfolio+%7C+Landing+Page+%7C+Business+Site+%7C+Blog;Zero+coding.+Zero+hassle.+Just+results.;Join+thousands+already+building+with+Websiter" alt="Websiter Typing" />
 </a>
 
 <br/>
 
 <a href="https://priyanshsinghal.com/websiter">
-  <img src="https://img.shields.io/badge/⚡_AI--Powered_Website_Builder_|_No_Code_Needed_|_Launch_Today-0d1117?style=for-the-badge&logo=rocket&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/🤖_AI_Powered-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Instant_Deploy-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨_Pro_Templates-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💰_Free_to_Start-black?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
 <a href="https://priyanshsinghal.com/websiter">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/👉_TRY_WEBSITER_NOW_→-58A6FF?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/👉_TRY_WEBSITER_NOW_→-58A6FF?style=for-the-badge&logoColor=white" alt="Try Websiter" />
-  </picture>
+  <img src="https://img.shields.io/badge/🚀_LAUNCH_YOUR_WEBSITE_NOW_→-FF6F00?style=for-the-badge&logoColor=white" height="50" alt="Launch Websiter" />
 </a>
 
-<sub><b>Create professional websites effortlessly with AI — from portfolio sites to landing pages, no coding required.</b></sub>
+<br/>
+
+<a href="https://priyanshsinghal.com/websiter"><b>priyanshsinghal.com/websiter</b></a>
 
 </div>
 
@@ -118,31 +124,28 @@ const priyansh = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
 
-<!-- ⭐ WEBSITER — Pinned Project Highlight -->
+<!-- ⭐ WEBSITER — Pinned #1 Project -->
 <div align="center">
-
 <a href="https://priyanshsinghal.com/websiter">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5&height=2&section=header" width="80%" />
+</a>
+</div>
+
 <table>
 <tr>
-<td align="center" style="padding: 20px;">
+<td colspan="2" align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> [Websiter — AI Website Builder](https://priyanshsinghal.com/websiter)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> [Websiter — AI Website Builder](https://priyanshsinghal.com/websiter) &nbsp; ![NEW](https://img.shields.io/badge/🔥_NEW-FF6F00?style=flat-square)
 
-**Build stunning, professional websites in minutes — powered by AI, no code required.**
-From portfolio sites to business landing pages, Websiter handles design, content, and deployment so you can focus on what matters.
+> **Stop coding websites from scratch.** Tell Websiter what you need — portfolio, landing page, business site — and watch AI build it in minutes. Customize with pro templates, deploy instantly.
 
-![AI](https://img.shields.io/badge/AI_Powered-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![No Code](https://img.shields.io/badge/No_Code-00C853?style=flat-square&logo=lightning&logoColor=white)
-![Fast](https://img.shields.io/badge/Launch_in_Minutes-58A6FF?style=flat-square&logo=rocket&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-FF6F00?style=flat-square&logo=openai&logoColor=white) ![No Code](https://img.shields.io/badge/No_Code-00C853?style=flat-square&logo=checkmarx&logoColor=white) ![Deploy](https://img.shields.io/badge/Instant_Deploy-58A6FF?style=flat-square&logo=vercel&logoColor=white) ![Free](https://img.shields.io/badge/Free_to_Start-9C27B0?style=flat-square&logo=startrek&logoColor=white)
 
-[![Try Websiter Now](https://img.shields.io/badge/🚀_Try_Websiter_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyanshsinghal.com/websiter)
+[![Try Websiter](https://img.shields.io/badge/🚀_Try_Websiter_→_priyanshsinghal.com/websiter-FF6F00?style=for-the-badge&logoColor=white)](https://priyanshsinghal.com/websiter)
 
 </td>
 </tr>
 </table>
-</a>
-
-</div>
 
 <table>
 <tr>
