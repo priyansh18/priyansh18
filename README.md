@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Dark themed header image -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=150&section=header&text=Priyansh%20Singhal&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=&descAlignY=70" width="100%" />
-
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=%F0%9F%9A%80+Senior+Full+Stack+Engineer+%40+Couchbase;%F0%9F%A4%96+Building+AI-Powered+Platforms;%F0%9F%8E%AF+System+Design+%7C+GenAI+%7C+LLMs;%E2%9A%A1+10K%2B+Daily+Transactions+%40+Oracle" alt="Typing SVG" />
+<!-- Portfolio Banner -->
+<a href="https://priyanshsinghal.com/home">
+  <img src="./assets/banner.png" width="100%" alt="Priyansh Singhal — Senior Full Stack Engineer" />
 </a>
 
 <!-- Social Badges - sleek dark style -->
