@@ -3,14 +3,10 @@
 <!-- Dark themed header image -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=150&section=header&text=Priyansh%20Singhal&fontSize=40&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=&descAlignY=70" width="100%" />
 
-<br />
-
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=%F0%9F%9A%80+Senior+Full+Stack+Engineer+%40+Couchbase;%F0%9F%A4%96+Building+AI-Powered+Platforms;%F0%9F%8E%AF+System+Design+%7C+GenAI+%7C+LLMs;%E2%9A%A1+10K%2B+Daily+Transactions+%40+Oracle" alt="Typing SVG" />
 </a>
-
-<br /><br />
 
 <!-- Social Badges - sleek dark style -->
 <a href="https://www.linkedin.com/in/priyanshsinghal/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -20,8 +16,6 @@
 <a href="https://www.instagram.com/18_priyansh/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:singhalpriyansh58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.youtube.com/@18_priyansh"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-
-<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=priyansh18&style=flat-square&color=58A6FF&label=Profile+Views" alt="profile views" />
 &nbsp;
@@ -48,8 +42,6 @@ Previously, I survived (and thrived) as an **Associate Application Developer @ O
 - I write **tech blogs** that turn complex stuff into *"ohhh that makes sense"* moments
 - I run a **YouTube channel** — sharing experiences, interview tips, and Oracle kit unboxings
 - If it involves **System Design, Backend APIs, React, or why this query is slow** — I'm in
-
-<br />
 
 ```javascript
 const priyansh = {
@@ -189,7 +181,6 @@ Check out all **84+ repositories** covering full-stack apps, DSA, utilities & mo
 
 </div>
 
-
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -200,8 +191,6 @@ Check out all **84+ repositories** covering full-stack apps, DSA, utilities & mo
 I write about **System Design, Backend Engineering, and AI** — turning complex topics into clear, digestible explanations.
 
 I also run a **YouTube channel**, sharing experiences, interview tips, and Oracle kit unboxings.
-
-<br />
 
 <div align="center">
 
@@ -219,12 +208,9 @@ I also run a **YouTube channel**, sharing experiences, interview tips, and Oracl
 
 <b>If it involves System Design, Backend APIs, AI Agents, or figuring out why that query is slow — let's talk.</b>
 
-<br /><br />
-
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshsinghal/)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyanshsinghal.com/home)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhalpriyansh58@gmail.com)
-
 
 </div>
 
